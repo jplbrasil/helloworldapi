@@ -1,4 +1,4 @@
-package com.jplbrasil.helloworldapi.dto;
+package com.jplbrasil.helloworldapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;

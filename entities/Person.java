@@ -1,4 +1,4 @@
-package com.jplbrasil.helloworldapi.entity;
+package com.jplbrasil.helloworldapi.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
